@@ -1,3 +1,16 @@
 body{
-    background-color: black;
+    background-color: #0D1117;
+    color: #FFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    height: 90vh;
+
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+canvas{
+    border: 10px solid #21262D;
 }
